@@ -1,0 +1,1509 @@
+{
+    canvasWidth:"830",
+    canvasHeight:"650",
+
+    "lines":
+    [
+
+        {
+            lineName:"罗宝线",
+            lineId:"A",
+            lineColor:"209344",
+
+            "list":
+            [
+                    {
+                        "lon": "114.11849",
+                        "crossLine": "罗宝线",
+                        "stationId": "A001",
+                        "stationName": "罗湖",
+                        "lat": "22.53118",
+                        "x": "639",
+                        "y": "555",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.11896",
+                        "crossLine": "罗宝线",
+                        "stationId": "A002",
+                        "stationName": "国贸",
+                        "lat": "22.54001",
+                        "x": "639",
+                        "y": "522",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.11645",
+                        "crossLine": "罗宝线,龙岗线",
+                        "stationId": "A003",
+                        "stationName": "老街",
+                        "lat": "22.54454",
+                        "x": "639",
+                        "y": "448",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.10762",
+                        "crossLine": "罗宝线,蛇口线",
+                        "stationId": "A004",
+                        "stationName": "大剧院",
+                        "lat": "22.54155",
+                        "x": "613",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                         "lon": "114.09525",
+                         "crossLine": "罗宝线",
+                         "stationId": "A005",
+                         "stationName": "科学馆",
+                         "lat": "22.54066",
+                         "x": "586",
+                         "y": "485",
+                         "textPosition": "下",
+                         "textOrientation": "竖直"
+                    },
+                    {
+                          "lon": "114.08488",
+                          "crossLine": "罗宝线",
+                          "stationId": "A006",
+                          "stationName": "华强路",
+                          "lat": "22.54044",
+                          "x": "558",
+                          "y": "485",
+                          "textPosition": "下",
+                          "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.06796",
+                        "crossLine": "罗宝线",
+                        "stationId": "A007",
+                        "stationName": "岗厦",
+                        "lat": "22.53488",
+                        "x": "530",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.06105",
+                        "crossLine": "罗宝线,龙华线",
+                        "stationId": "A008",
+                        "stationName": "会展中心",
+                        "lat": "22.53479",
+                        "x": "477",
+                        "y": "485",
+                        "textPosition": "右上",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.05466",
+                        "crossLine": "罗宝线,龙岗线",
+                        "stationId": "A009",
+                        "stationName": "购物公园",
+                        "lat": "22.53463",
+                        "x": "450",
+                        "y": "485",
+                        "textPosition": "右下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.0385",
+                        "crossLine": "罗宝线",
+                        "stationId": "A010",
+                        "stationName": "香蜜湖",
+                        "lat": "22.53872",
+                        "x": "422",
+                        "y": "485",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.02606",
+                        "crossLine": "罗宝线",
+                        "stationId": "A011",
+                        "stationName": "车公庙",
+                        "lat": "22.53619",
+                        "x": "396",
+                        "y": "485",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.01344",
+                        "crossLine": "罗宝线",
+                        "stationId": "A012",
+                        "stationName": "竹子林",
+                        "lat": "22.53368",
+                        "x": "368",
+                        "y": "485",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.99561",
+                        "crossLine": "罗宝线",
+                        "stationId": "A013",
+                        "stationName": "侨城东",
+                        "lat": "22.53265",
+                        "x": "341",
+                        "y": "485",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.98503",
+                        "crossLine": "罗宝线",
+                        "stationId": "A014",
+                        "stationName": "华侨城",
+                        "lat": "22.53348",
+                        "x": "312",
+                        "y": "485",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.97445",
+                        "crossLine": "罗宝线,蛇口线",
+                        "stationId": "A015",
+                        "stationName": "世界之窗",
+                        "lat": "22.5369",
+                        "x": "286",
+                        "y": "485",
+                        "textPosition": "左上",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.96743",
+                        "crossLine": "罗宝线",
+                        "stationId": "A016",
+                        "stationName": "白石洲",
+                        "lat": "22.53952",
+                        "x": "258",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.95396",
+                        "crossLine": "罗宝线",
+                        "stationId": "A017",
+                        "stationName": "高新园",
+                        "lat": "22.54024",
+                        "x": "232",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.94425",
+                        "crossLine": "罗宝线",
+                        "stationId": "A018",
+                        "stationName": "深大",
+                        "lat": "22.53876",
+                        "x": "204",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.92478",
+                        "crossLine": "罗宝线",
+                        "stationId": "A019",
+                        "stationName": "桃园",
+                        "lat": "22.53238",
+                        "x": "177",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.91527",
+                        "crossLine": "罗宝线",
+                        "stationId": "A020",
+                        "stationName": "大新",
+                        "lat": "22.53228",
+                        "x": "150",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.90336",
+                        "crossLine": "罗宝线",
+                        "stationId": "A021",
+                        "stationName": "鲤鱼门",
+                        "lat": "22.53234",
+                        "x": "122",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.89841",
+                        "crossLine": "罗宝线,环中线",
+                        "stationId": "A022",
+                        "stationName": "前海湾",
+                        "lat": "22.53746",
+                        "x": "95",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.89457",
+                        "crossLine": "罗宝线",
+                        "stationId": "A023",
+                        "stationName": "新安",
+                        "lat": "22.5475",
+                        "x": "95",
+                        "y": "448",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.88709",
+                        "crossLine": "罗宝线,环中线",
+                        "stationId": "A024",
+                        "stationName": "宝安中心",
+                        "lat": "22.55472",
+                        "x": "95",
+                        "y": "410",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.88104",
+                        "crossLine": "罗宝线",
+                        "stationId": "A025",
+                        "stationName": "宝体",
+                        "lat": "22.56047",
+                        "x": "95",
+                        "y": "372",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.87075",
+                        "crossLine": "罗宝线",
+                        "stationId": "A026",
+                        "stationName": "坪洲",
+                        "lat": "22.56905",
+                        "x": "95",
+                        "y": "336",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.86223",
+                        "crossLine": "罗宝线",
+                        "stationId": "A027",
+                        "stationName": "西乡",
+                        "lat": "22.57585",
+                        "x": "95",
+                        "y": "300",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.84716",
+                        "crossLine": "罗宝线",
+                        "stationId": "A028",
+                        "stationName": "固戍",
+                        "lat": "22.60017",
+                        "x": "95",
+                        "y": "261",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.83569",
+                        "crossLine": "罗宝线",
+                        "stationId": "A029",
+                        "stationName": "后瑞",
+                        "lat": "22.62838",
+                        "x": "95",
+                        "y": "226",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.82303",
+                        "crossLine": "罗宝线",
+                        "stationId": "A030",
+                        "stationName": "机场东",
+                        "lat": "22.6469",
+                        "x": "95",
+                        "y": "188",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    }
+            ]
+        },
+
+
+
+        {
+            lineName:"蛇口线",
+            lineId:"B",
+            lineColor:"e57e12",
+
+            "list":
+            [
+                    {
+                        "lon": "113.89892",
+                        "crossLine": "蛇口线",
+                        "stationId": "B001",
+                        "stationName": "赤湾",
+                        "lat": "22.4793",
+                        "x": "63",
+                        "y": "522",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.91238",
+                        "crossLine": "蛇口线",
+                        "stationId": "B002",
+                        "stationName": "蛇口港",
+                        "lat": "22.47673",
+                        "x": "63",
+                        "y": "555",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.91476",
+                        "crossLine": "蛇口线",
+                        "stationId": "B003",
+                        "stationName": "海上世界",
+                        "lat": "22.48511",
+                        "x": "95",
+                        "y": "555",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.91978",
+                        "crossLine": "蛇口线",
+                        "stationId": "B004",
+                        "stationName": "水湾",
+                        "lat": "22.48845",
+                        "x": "122",
+                        "y": "555",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.93111",
+                        "crossLine": "蛇口线",
+                        "stationId": "B005",
+                        "stationName": "东角头",
+                        "lat": "22.48584",
+                        "x": "150",
+                        "y": "555",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.93822",
+                        "crossLine": "蛇口线",
+                        "stationId": "B006",
+                        "stationName": "湾厦",
+                        "lat": "22.49341",
+                        "x": "177",
+                        "y": "555",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.93813",
+                        "crossLine": "蛇口线",
+                        "stationId": "B007",
+                        "stationName": "海月",
+                        "lat": "22.5001",
+                        "x": "204",
+                        "y": "555",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.93761",
+                        "crossLine": "蛇口线",
+                        "stationId": "B008",
+                        "stationName": "登良",
+                        "lat": "22.50919",
+                        "x": "232",
+                        "y": "555",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.94027",
+                        "crossLine": "蛇口线",
+                        "stationId": "B009",
+                        "stationName": "后海",
+                        "lat": "22.5174",
+                        "x": "258",
+                        "y": "555",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.94658",
+                        "crossLine": "蛇口线",
+                        "stationId": "B010",
+                        "stationName": "科苑",
+                        "lat": "22.52706",
+                        "x": "286",
+                        "y": "555",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.96804",
+                        "crossLine": "蛇口线",
+                        "stationId": "B011",
+                        "stationName": "红树湾",
+                        "lat": "22.52512",
+                        "x": "286",
+                        "y": "522",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.97445",
+                        "crossLine": "罗宝线,蛇口线",
+                        "stationId": "A015",
+                        "stationName": "世界之窗",
+                        "lat": "22.5369",
+                        "x": "286",
+                        "y": "485",
+                        "textPosition": "左上",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.98798",
+                        "crossLine": "蛇口线",
+                        "stationId": "B013",
+                        "stationName": "侨城北",
+                        "lat": "22.54467",
+                        "x": "286",
+                        "y": "448",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.99989",
+                        "crossLine": "蛇口线",
+                        "stationId": "B014",
+                        "stationName": "深康",
+                        "lat": "22.54423",
+                        "x": "286",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.00612",
+                        "crossLine": "蛇口线",
+                        "stationId": "B015",
+                        "stationName": "安托山",
+                        "lat": "22.54885",
+                        "x": "312",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.01476",
+                        "crossLine": "蛇口线",
+                        "stationId": "B016",
+                        "stationName": "侨香",
+                        "lat": "22.54974",
+                        "x": "341",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.02412",
+                        "crossLine": "蛇口线",
+                        "stationId": "B017",
+                        "stationName": "香蜜",
+                        "lat": "22.55291",
+                        "x": "368",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.03365",
+                        "crossLine": "蛇口线",
+                        "stationId": "B018",
+                        "stationName": "香梅北",
+                        "lat": "22.55408",
+                        "x": "396",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.04317",
+                        "crossLine": "蛇口线",
+                        "stationId": "B019",
+                        "stationName": "景田",
+                        "lat": "22.55382",
+                        "x": "422",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.04977",
+                        "crossLine": "蛇口线",
+                        "stationId": "B020",
+                        "stationName": "莲花西",
+                        "lat": "22.54752",
+                        "x": "450",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.05286",
+                        "crossLine": "蛇口线,龙岗线",
+                        "stationId": "B021",
+                        "stationName": "福田",
+                        "lat": "22.53988",
+                        "x": "450",
+                        "y": "448",
+                        "textPosition": "左上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.06118",
+                        "crossLine": "蛇口线,龙华线",
+                        "stationId": "B022",
+                        "stationName": "市民中心",
+                        "lat": "22.54167",
+                        "x": "477",
+                        "y": "448",
+                        "textPosition": "右下",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.069",
+                        "crossLine": "蛇口线",
+                        "stationId": "B023",
+                        "stationName": "岗厦北",
+                        "lat": "22.54077",
+                        "x": "530",
+                        "y": "448",
+                        "textPosition": "上",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.08536",
+                        "crossLine": "蛇口线",
+                        "stationId": "B024",
+                        "stationName": "华强北",
+                        "lat": "22.54442",
+                        "x": "558",
+                        "y": "448",
+                        "textPosition": "上",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.09242",
+                        "crossLine": "蛇口线",
+                        "stationId": "B025",
+                        "stationName": "燕南",
+                        "lat": "22.54451",
+                        "x": "586",
+                        "y": "448",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.10762",
+                        "crossLine": "罗宝线,蛇口线",
+                        "stationId": "A004",
+                        "stationName": "大剧院",
+                        "lat": "22.54155",
+                        "x": "613",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.12521",
+                        "crossLine": "蛇口线",
+                        "stationId": "B027",
+                        "stationName": "湖贝",
+                        "lat": "22.54424",
+                        "x": "693",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.13463",
+                        "crossLine": "蛇口线,环中线",
+                        "stationId": "B028",
+                        "stationName": "黄贝岭",
+                        "lat": "22.5455",
+                        "x": "721",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.14942",
+                        "crossLine": "蛇口线",
+                        "stationId": "B029",
+                        "stationName": "新秀",
+                        "lat": "22.5478",
+                        "x": "750",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    }
+            ]
+        },
+
+
+
+        {
+            lineName:"龙岗线",
+            lineId:"C",
+            lineColor:"1e96d5",
+
+            "list":
+            [
+                    {
+                        "lon": "114.05151",
+                        "crossLine": "龙岗线",
+                        "stationId": "C001",
+                        "stationName": "益田",
+                        "lat": "22.5163",
+                        "x": "450",
+                        "y": "555",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.05362",
+                        "crossLine": "龙岗线",
+                        "stationId": "C002",
+                        "stationName": "石厦",
+                        "lat": "22.52298",
+                        "x": "450",
+                        "y": "522",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.05466",
+                        "crossLine": "罗宝线,龙岗线",
+                        "stationId": "A009",
+                        "stationName": "购物公园",
+                        "lat": "22.53463",
+                        "x": "450",
+                        "y": "485",
+                        "textPosition": "右下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.05286",
+                        "crossLine": "蛇口线,龙岗线",
+                        "stationId": "B021",
+                        "stationName": "福田",
+                        "lat": "22.53988",
+                        "x": "450",
+                        "y": "448",
+                        "textPosition": "左上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.08018",
+                        "crossLine": "龙岗线,龙华线",
+                        "stationId": "C005",
+                        "stationName": "少年宫",
+                        "lat": "22.5486",
+                        "x": "477",
+                        "y": "410",
+                        "textPosition": "右下",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.06779",
+                        "crossLine": "龙岗线",
+                        "stationId": "C006",
+                        "stationName": "莲花村",
+                        "lat": "22.54872",
+                        "x": "504",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.08664",
+                        "crossLine": "龙岗线",
+                        "stationId": "C007",
+                        "stationName": "华新",
+                        "lat": "22.54884",
+                        "x": "530",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.0961",
+                        "crossLine": "龙岗线",
+                        "stationId": "C008",
+                        "stationName": "通新岭",
+                        "lat": "22.54918",
+                        "x": "558",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.1031",
+                        "crossLine": "龙岗线",
+                        "stationId": "C009",
+                        "stationName": "红岭",
+                        "lat": "22.54931",
+                        "x": "586",
+                        "y": "410",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.11645",
+                        "crossLine": "罗宝线,龙岗线",
+                        "stationId": "A003",
+                        "stationName": "老街",
+                        "lat": "22.54454",
+                        "x": "639",
+                        "y": "448",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.1228",
+                        "crossLine": "龙岗线",
+                        "stationId": "C011",
+                        "stationName": "晒布",
+                        "lat": "22.54953",
+                        "x": "665",
+                        "y": "448",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.13064",
+                        "crossLine": "龙岗线",
+                        "stationId": "C012",
+                        "stationName": "翠竹",
+                        "lat": "22.55682",
+                        "x": "665",
+                        "y": "410",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.13028",
+                        "crossLine": "龙岗线",
+                        "stationId": "C013",
+                        "stationName": "田贝",
+                        "lat": "22.56749",
+                        "x": "665",
+                        "y": "372",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.12635",
+                        "crossLine": "龙岗线",
+                        "stationId": "C014",
+                        "stationName": "水贝",
+                        "lat": "22.57417",
+                        "x": "665",
+                        "y": "336",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.11716",
+                        "crossLine": "龙岗线",
+                        "stationId": "C015",
+                        "stationName": "草埔",
+                        "lat": "22.58381",
+                        "x": "665",
+                        "y": "300",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.12168",
+                        "crossLine": "龙岗线,环中线",
+                        "stationId": "C016",
+                        "stationName": "布吉",
+                        "lat": "22.60162",
+                        "x": "693",
+                        "y": "226",
+                        "textPosition": "右上",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.13036",
+                        "crossLine": "龙岗线",
+                        "stationId": "C017",
+                        "stationName": "木棉湾",
+                        "lat": "22.60668",
+                        "x": "693",
+                        "y": "188",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.13819",
+                        "crossLine": "龙岗线",
+                        "stationId": "C018",
+                        "stationName": "大芬",
+                        "lat": "22.61401",
+                        "x": "693",
+                        "y": "151",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.1477",
+                        "crossLine": "龙岗线",
+                        "stationId": "C019",
+                        "stationName": "丹竹头",
+                        "lat": "22.61982",
+                        "x": "693",
+                        "y": "116",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.18029",
+                        "crossLine": "龙岗线",
+                        "stationId": "C020",
+                        "stationName": "六约",
+                        "lat": "22.63422",
+                        "x": "693",
+                        "y": "79",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.19263",
+                        "crossLine": "龙岗线",
+                        "stationId": "C021",
+                        "stationName": "塘坑",
+                        "lat": "22.63978",
+                        "x": "693",
+                        "y": "43",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.20894",
+                        "crossLine": "龙岗线",
+                        "stationId": "C022",
+                        "stationName": "横岗",
+                        "lat": "22.64854",
+                        "x": "721",
+                        "y": "43",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.21766",
+                        "crossLine": "龙岗线",
+                        "stationId": "C023",
+                        "stationName": "永湖",
+                        "lat": "22.65812",
+                        "x": "750",
+                        "y": "43",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.22437",
+                        "crossLine": "龙岗线",
+                        "stationId": "C024",
+                        "stationName": "荷坳",
+                        "lat": "22.67316",
+                        "x": "750",
+                        "y": "79",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.22825",
+                        "crossLine": "龙岗线",
+                        "stationId": "C025",
+                        "stationName": "大运",
+                        "lat": "22.68603",
+                        "x": "750",
+                        "y": "116",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.23412",
+                        "crossLine": "龙岗线",
+                        "stationId": "C026",
+                        "stationName": "爱联",
+                        "lat": "22.69713",
+                        "x": "750",
+                        "y": "151",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.24413",
+                        "crossLine": "龙岗线",
+                        "stationId": "C027",
+                        "stationName": "吉祥",
+                        "lat": "22.70944",
+                        "x": "750",
+                        "y": "188",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.25464",
+                        "crossLine": "龙岗线",
+                        "stationId": "C028",
+                        "stationName": "龙城广场",
+                        "lat": "22.7171",
+                        "x": "750",
+                        "y": "226",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.26537",
+                        "crossLine": "龙岗线",
+                        "stationId": "C029",
+                        "stationName": "南联",
+                        "lat": "22.72227",
+                        "x": "750",
+                        "y": "261",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.27677",
+                        "crossLine": "龙岗线",
+                        "stationId": "C030",
+                        "stationName": "双龙",
+                        "lat": "22.72846",
+                        "x": "750",
+                        "y": "300",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    }
+            ]
+        },
+
+
+
+        {
+            lineName:"龙华线",
+            lineId:"D",
+            lineColor:"d71518",
+
+            "list":
+            [
+                    {
+                        "lon": "114.06898",
+                        "crossLine": "龙华线",
+                        "stationId": "D001",
+                        "stationName": "福田口岸",
+                        "lat": "22.51593",
+                        "x": "477",
+                        "y": "555",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.0647",
+                        "crossLine": "龙华线",
+                        "stationId": "D002",
+                        "stationName": "福民",
+                        "lat": "22.52337",
+                        "x": "477",
+                        "y": "522",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.06105",
+                        "crossLine": "罗宝线,龙华线",
+                        "stationId": "A008",
+                        "stationName": "会展中心",
+                        "lat": "22.53479",
+                        "x": "477",
+                        "y": "485",
+                        "textPosition": "右上",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.06118",
+                        "crossLine": "蛇口线,龙华线",
+                        "stationId": "B022",
+                        "stationName": "市民中心",
+                        "lat": "22.54167",
+                        "x": "477",
+                        "y": "448",
+                        "textPosition": "右下",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.08018",
+                        "crossLine": "龙岗线,龙华线",
+                        "stationId": "C005",
+                        "stationName": "少年宫",
+                        "lat": "22.5486",
+                        "x": "477",
+                        "y": "410",
+                        "textPosition": "右下",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.05928",
+                        "crossLine": "龙华线",
+                        "stationId": "D006",
+                        "stationName": "莲花北",
+                        "lat": "22.56079",
+                        "x": "477",
+                        "y": "372",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.05942",
+                        "crossLine": "龙华线",
+                        "stationId": "D007",
+                        "stationName": "上梅林",
+                        "lat": "22.57032",
+                        "x": "477",
+                        "y": "336",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.04896",
+                        "crossLine": "龙华线",
+                        "stationId": "D008",
+                        "stationName": "民乐",
+                        "lat": "22.59381",
+                        "x": "477",
+                        "y": "300",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.04253",
+                        "crossLine": "龙华线",
+                        "stationId": "D009",
+                        "stationName": "白石龙",
+                        "lat": "22.60147",
+                        "x": "477",
+                        "y": "261",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.02974",
+                        "crossLine": "龙华线,环中线",
+                        "stationId": "D010",
+                        "stationName": "深圳北",
+                        "lat": "22.61127",
+                        "x": "477",
+                        "y": "226",
+                        "textPosition": "左下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.02323",
+                        "crossLine": "龙华线",
+                        "stationId": "D011",
+                        "stationName": "红山",
+                        "lat": "22.62228",
+                        "x": "477",
+                        "y": "188",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.0135",
+                        "crossLine": "龙华线",
+                        "stationId": "D012",
+                        "stationName": "上塘",
+                        "lat": "22.63785",
+                        "x": "477",
+                        "y": "151",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.01274",
+                        "crossLine": "龙华线",
+                        "stationId": "D013",
+                        "stationName": "龙胜",
+                        "lat": "22.64493",
+                        "x": "477",
+                        "y": "116",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.0224",
+                        "crossLine": "龙华线",
+                        "stationId": "D014",
+                        "stationName": "龙华",
+                        "lat": "22.65158",
+                        "x": "477",
+                        "y": "79",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.0365",
+                        "crossLine": "龙华线",
+                        "stationId": "D015",
+                        "stationName": "清湖",
+                        "lat": "22.66392",
+                        "x": "477",
+                        "y": "43",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    }
+            ]
+        },
+
+
+
+        {
+            lineName:"环中线",
+            lineId:"E",
+            lineColor:"6d1c7c",
+
+            "list":
+            [
+                    {
+                        "lon": "113.89841",
+                        "crossLine": "罗宝线,环中线",
+                        "stationId": "A022",
+                        "stationName": "前海湾",
+                        "lat": "22.53746",
+                        "x": "95",
+                        "y": "485",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.88912",
+                        "crossLine": "环中线",
+                        "stationId": "E002",
+                        "stationName": "临海",
+                        "lat": "22.54399",
+                        "x": "63",
+                        "y": "485",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.88543",
+                        "crossLine": "环中线",
+                        "stationId": "E003",
+                        "stationName": "宝华",
+                        "lat": "22.54979",
+                        "x": "63",
+                        "y": "448",
+                        "textPosition": "左",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.88709",
+                        "crossLine": "罗宝线,环中线",
+                        "stationId": "A024",
+                        "stationName": "宝安中心",
+                        "lat": "22.55472",
+                        "x": "95",
+                        "y": "410",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.89407",
+                        "crossLine": "环中线",
+                        "stationId": "E005",
+                        "stationName": "翻身",
+                        "lat": "22.56055",
+                        "x": "122",
+                        "y": "372",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.90413",
+                        "crossLine": "环中线",
+                        "stationId": "E006",
+                        "stationName": "灵芝",
+                        "lat": "22.569",
+                        "x": "150",
+                        "y": "336",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.91064",
+                        "crossLine": "环中线",
+                        "stationId": "E007",
+                        "stationName": "洪浪北",
+                        "lat": "22.57468",
+                        "x": "177",
+                        "y": "300",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "113.91901",
+                        "crossLine": "环中线",
+                        "stationId": "E008",
+                        "stationName": "兴东",
+                        "lat": "22.58182",
+                        "x": "204",
+                        "y": "261",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.94388",
+                        "crossLine": "环中线",
+                        "stationId": "E009",
+                        "stationName": "留仙洞",
+                        "lat": "22.58019",
+                        "x": "258",
+                        "y": "261",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.95442",
+                        "crossLine": "环中线",
+                        "stationId": "E010",
+                        "stationName": "西丽",
+                        "lat": "22.5806",
+                        "x": "312",
+                        "y": "261",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "113.96494",
+                        "crossLine": "环中线",
+                        "stationId": "E011",
+                        "stationName": "大学城",
+                        "lat": "22.58182",
+                        "x": "368",
+                        "y": "261",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114",
+                        "crossLine": "环中线",
+                        "stationId": "E012",
+                        "stationName": "塘朗",
+                        "lat": "22.59007",
+                        "x": "422",
+                        "y": "261",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.01124",
+                        "crossLine": "环中线",
+                        "stationId": "E013",
+                        "stationName": "长岭陂",
+                        "lat": "22.59927",
+                        "x": "450",
+                        "y": "226",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.02974",
+                        "crossLine": "龙华线,环中线",
+                        "stationId": "D010",
+                        "stationName": "深圳北",
+                        "lat": "22.61127",
+                        "x": "477",
+                        "y": "226",
+                        "textPosition": "左下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.04118",
+                        "crossLine": "环中线",
+                        "stationId": "E015",
+                        "stationName": "民治",
+                        "lat": "22.61801",
+                        "x": "504",
+                        "y": "226",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.06069",
+                        "crossLine": "环中线",
+                        "stationId": "E016",
+                        "stationName": "五和",
+                        "lat": "22.62682",
+                        "x": "530",
+                        "y": "226",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.07068",
+                        "crossLine": "环中线",
+                        "stationId": "E017",
+                        "stationName": "坂田",
+                        "lat": "22.62759",
+                        "x": "558",
+                        "y": "226",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.07997",
+                        "crossLine": "环中线",
+                        "stationId": "E018",
+                        "stationName": "杨美",
+                        "lat": "22.62657",
+                        "x": "586",
+                        "y": "226",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.10162",
+                        "crossLine": "环中线",
+                        "stationId": "E019",
+                        "stationName": "上水径",
+                        "lat": "22.62241",
+                        "x": "613",
+                        "y": "226",
+                        "textPosition": "上",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.11055",
+                        "crossLine": "环中线",
+                        "stationId": "E020",
+                        "stationName": "下水径",
+                        "lat": "22.61412",
+                        "x": "639",
+                        "y": "226",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.11347",
+                        "crossLine": "环中线",
+                        "stationId": "E021",
+                        "stationName": "长龙",
+                        "lat": "22.60821",
+                        "x": "665",
+                        "y": "226",
+                        "textPosition": "下",
+                        "textOrientation": "竖直"
+                    },
+                    {
+                        "lon": "114.12168",
+                        "crossLine": "龙岗线,环中线",
+                        "stationId": "C016",
+                        "stationName": "布吉",
+                        "lat": "22.60162",
+                        "x": "693",
+                        "y": "226",
+                        "textPosition": "右上",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.13045",
+                        "crossLine": "环中线",
+                        "stationId": "E023",
+                        "stationName": "百鸽笼",
+                        "lat": "22.59539",
+                        "x": "721",
+                        "y": "336",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.13806",
+                        "crossLine": "环中线",
+                        "stationId": "E024",
+                        "stationName": "布心",
+                        "lat": "22.58127",
+                        "x": "721",
+                        "y": "372",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.13702",
+                        "crossLine": "环中线",
+                        "stationId": "E025",
+                        "stationName": "太安",
+                        "lat": "22.57334",
+                        "x": "721",
+                        "y": "410",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.14036",
+                        "crossLine": "环中线",
+                        "stationId": "E026",
+                        "stationName": "怡景",
+                        "lat": "22.55652",
+                        "x": "721",
+                        "y": "448",
+                        "textPosition": "右",
+                        "textOrientation": "水平"
+                    },
+                    {
+                        "lon": "114.13463",
+                         "crossLine": "蛇口线,环中线",
+                         "stationId": "B028",
+                         "stationName": "黄贝岭",
+                         "lat": "22.5455",
+                         "x": "721",
+                         "y": "485",
+                         "textPosition": "下",
+                         "textOrientation": "竖直"
+                    }
+            ]
+        }
+
+    ]
+
+}
